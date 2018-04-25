@@ -108,4 +108,4 @@ git commit -m 'add listing table to real-estate-listings.html'
 git push
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-tables' title='HTML Tables'>HTML Tables</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Tables</p>
